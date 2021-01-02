@@ -1,4 +1,4 @@
-# online-courses
+# Online Courses
 
 My solutions for online courses that I have completed.
 
