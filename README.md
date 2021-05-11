@@ -32,7 +32,13 @@ My solutions for online courses that I have completed.
   * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) [In Progress]
   * [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) [In Progress]
   * [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) [In Progress]
-  
+
+* [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+  * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+  * [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+  * [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+  * [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+
 **Udacity courses :**
 
 * [AI for Business Leaders](https://www.udacity.com/course/ai-for-business-leaders--nd054)
