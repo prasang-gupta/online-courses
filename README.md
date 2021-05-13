@@ -39,6 +39,11 @@ My solutions for online courses that I have completed.
   * [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
   * [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 
+* [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+  * [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+  * [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+  * [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+
 **Udacity courses :**
 
 * [AI for Business Leaders](https://www.udacity.com/course/ai-for-business-leaders--nd054)
